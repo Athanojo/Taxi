@@ -1,5 +1,6 @@
 
 **NYC TAXI TRIP DATA ANALYSIS**
+https://app.powerbi.com/groups/1e081141-d1da-46f1-a2d9-2dff1cd921dc/reports/ba1bb7d0-3e33-4eac-9f90-0765106a14b8/ReportSection?experience=power-bi
 
 **Abstract**
 
